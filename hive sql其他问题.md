@@ -1,1 +1,0 @@
-[万字长文详解HiveSQL执行计划](https://mp.weixin.qq.com/s/3483ib06DFQfhLFOZAv_jA)
